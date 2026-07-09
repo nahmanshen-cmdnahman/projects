@@ -2,3 +2,4 @@
 רשת הסרטונים החרדית
 AN Games
 English app
+אני רוצה לאמת recaptcha בכל אחד מהאתרים
