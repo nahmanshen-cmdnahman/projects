@@ -1,0 +1,4 @@
+אתר משחקים שיצרתי בתחילה בקנבה, ואח"כ עברתי לvercel
+כתובת האתר היא an-games.vercel.app
+כתובת האתר בקנבה היא an-games.my.canva.site/games
+האתר כולל נגישות מבית enable
